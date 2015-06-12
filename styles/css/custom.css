@@ -1,0 +1,101 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#header {
+	background-color: black;		
+}
+
+.redText {
+	color:red;
+	}
+	
+#mainParagraph {
+	text-align:center;
+	}
+	
+.ui-bar {
+	text-align:center;
+	font-weight:100;
+	}
+	
+.ui-footer .ui-title {
+	font-weight:100;
+}
+
+body  {
+  font-family:'Open Sans', sans-serif;
+}
+
+
+a {
+  text-decoration:none;
+}
+
+
+img {
+  margin: 5px;
+  max-width: 100%;
+  height:150px;
+ }
+
+p, h3 {
+	text-align:center;
+	}
+li {
+	text-decoration:none;
+	list-style:none;
+	}
+
+/*************************************************************************************************
+NAVIGATION
+*************************************************************************************************/
+
+nav {
+  background-color: red;
+  text-align:center;
+  padding: 10px 0;
+  margin: 20px 0 0;
+}
+
+nav ul {
+  list-style: none;
+
+}
+
+nav li  {
+  display: inline-block;
+  text-decoration:none;
+}
+
+
+nav a {
+  font-weight: 800;
+  padding: 15px 10px;
+}
+
+
+
+/*************************************************************************************************
+PAGE: ABOUT
+*************************************************************************************************/
+
+.profile-photo  {
+  display: block;
+  max-width: 150px;
+  margin: 0 auto 30px;
+  border-radius: 100%;
+}
+
+
+/*************************************************************************************************
+PAGE: CONTACT
+*************************************************************************************************/
+
+.contact-info {
+  list-style: none;
+  padding: o;
+  margin: 0;
+ font-size: o.9em;
+}
+
+
